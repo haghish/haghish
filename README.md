@@ -1,4 +1,6 @@
 Among the statistics community, I'm mostly known for my statistical software in __R__ and __Stata__, and my approach/effort/software to create a path towards a more transparent and reproducible research. I also have tried to encourage the statistical community [making statistical software more interactive](https://journals.sagepub.com/doi/full/10.1177/1536867X19830891). I excessively program with __R__, __Stata__, __Python__, and __C++__. Occasionally, [I blog about data analysis in R and Stata](http://www.haghish.com/home.php). But you find stuff in other languages such as JavaScripts, Objective-C, etc. among my repositories. 
 
-My research has recently shifted on machine learning with a particular interest in class imbalance, missing data imputation, and automated machine learning. 
+My research has recently shifted on machine learning with a particular interest in class imbalance, missing data imputation, and automated machine learning. I use machine learning also for my research in social sciences. For example, for suicide risk evaluation, suicide attempt prediction, or exploring and modeling predictors of support for political agrression among adolescents. 
+
+I'm active on Twitter [@haghish](https://twitter.com/Haghish) and you can have a look on my academic publication on [Google Scholar](https://scholar.google.com/citations?user=BtsIku0AAAAJ&hl=en). 
 
