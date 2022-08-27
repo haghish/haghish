@@ -1,4 +1,4 @@
-I am a [researcher at University of Oslo](https://scholar.google.com/citations?user=BtsIku0AAAAJ&hl=en) and I do research on mental health applications of artificial intelligence. I use GitHub for different purposes, but mostly for developing statistical software packages for different languages. Below are a list of _free_ software I have written for __R__ and __Stata__. I post updates regarding my software package on Twitter: [@haghish](https://twitter.com/Haghish)
+I am a [researcher at University of Oslo](https://scholar.google.com/citations?user=BtsIku0AAAAJ&hl=en) and I do research on mental health applications of artificial intelligence. I use GitHub for different purposes, but mostly for developing computational packages for __R__, __Stata__, __Python__, etc. Below are a list of _free_ software I have written for __R__ and __Stata__. I post updates regarding my software package on Twitter: [@haghish](https://twitter.com/Haghish)
 
 
 | **Name**          | **Description**                                                                                                                                                              |
