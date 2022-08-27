@@ -1,4 +1,14 @@
 I am a [researcher at University of Oslo](https://scholar.google.com/citations?user=BtsIku0AAAAJ&hl=en) and I do research on applications of artificial intelligence for mental health. I use GitHub for different purposes, but mostly for developing statistical software packages for different languages. Below are a list of software I have written for __R__, __Stata__, and __Python__. I post updates regarding my software package on Twitter: [@haghish](https://twitter.com/Haghish)
 
-
-
+| **Language** | **Name**       | **Description**                                                                                                                                                              |
+|--------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **R**        | `mlim`         | [Multiple imputation with automated machine learning](https://github.com/haghish/mlim)                                                                                       |
+| **R**        | `adjROC`       | [ROC Curve Evaluation at a Given Threshold](https://github.com/haghish/adjROC)                                                                                               |
+| **R**        | `convertGraph` | [An R package for converting graphical files to one another](https://github.com/haghish/convertGraph)                                                                        |
+| **R**        | `DOT`          | [An R Package that Renders and Exports Graphviz DOT diagrams in SVG and PNG format](https://github.com/haghish/DOT)                                                          |
+| **R**        | `md.log`       | [A Markdown log system with function call](https://github.com/haghish/md.log)                                                                                                |
+| **Stata**    | `github`       | [a module for building, searching, installing, managing, and mining Stata packages from GitHub](https://github.com/haghish/github)                                           |
+| **Stata**    | `rcall`        | [Seamless interactive R in Stata. rcall allows communicating data sets, matrices, variables, and scalars between Stata and R conveniently](https://github.com/haghish/rcall) |
+| **Stata**    |                |                                                                                                                                                                              |
+| **Stata**    |                |                                                                                                                                                                              |
+| **Stata**    |                |                                                                                                                                                                              |
