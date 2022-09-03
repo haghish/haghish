@@ -7,7 +7,9 @@ I am a [researcher at University of Oslo](https://scholar.google.com/citations?u
 | `rcall`           | [Seamless interactive R in Stata. rcall allows communicating data sets, matrices, variables, and scalars between Stata and R conveniently](https://github.com/haghish/rcall) |
 | `markdoc`         | [A literate programming package for Stata which develops dynamic documents, slides, and help files in various formats](https://github.com/haghish/markdoc)                   |
 | `adjROC`          | [ROC Curve Evaluation at a Given Threshold](https://github.com/haghish/adjROC)                                                                                               |
-| `machinelearning` | [A Stata module for machine learning (ML) algorithms, implemented within R using rcall package](https://github.com/haghish/machinelearning)                                  |
+| `ensemble`          | [An AutoML Algorithm for Building Homogeneous or Heterogeneous Stacked Ensemble Models by Searching for Diverse Base-Learners](https://github.com/haghish/ensemble)  |
+| `h2otools`          | [Toolkit for H2O.ai Machine Learning Software](https://github.com/haghish/h2otools)  |
+| `machinelearning` | [A Stata module for machine learning algorithms, implemented within R using rcall package](https://github.com/haghish/machinelearning)                                  |
 | `github`          | [a module for building, searching, installing, managing, and mining Stata packages from GitHub](https://github.com/haghish/github)                                           |
 | `convertGraph`    | [An R package for converting graphical files to one another](https://github.com/haghish/convertGraph)                                                                        |
 | `DOT`             | [An R Package that Renders and Exports Graphviz DOT diagrams in SVG and PNG format](https://github.com/haghish/DOT)                                                          |
