@@ -17,3 +17,4 @@ I am a [researcher at University of Oslo](https://scholar.google.com/citations?u
 | `weaver`          | [A Stata Log System in HTML or LaTeX for Dynamic Document and literate programming in Stata](https://github.com/haghish/weaver)                                              |
 | `neat`            | [A Stata layout module for creating geometric shapes out of replicated observations in Stata scatter plots](https://github.com/haghish/neat)                                 |
 | `statax`          | [JavaScript and LaTeX Syntax Highlighter for Stata](https://github.com/haghish/statax)                                                                                       |
+| `md2smcl`         | [A Stata module that converts Markdown to SMCL language](https://github.com/haghish/md2smcl)                                              |
