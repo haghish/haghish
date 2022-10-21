@@ -14,6 +14,7 @@ I am a [researcher at University of Oslo](https://scholar.google.com/citations?u
 | `convertGraph`    | [An R package for converting graphical files to one another](https://github.com/haghish/convertGraph)                                                                        |
 | `DOT`             | [An R Package that Renders and Exports Graphviz DOT diagrams in SVG and PNG format](https://github.com/haghish/DOT)                                                          |
 | `md.log`          | [A Markdown log system with function call](https://github.com/haghish/md.log)                                                                                                |
+| `diagram`          | [diagram : Graphviz and DOT Path Diagrams in Stata](https://github.com/haghish/diagram)                                                                                                |
 | `weaver`          | [A Stata Log System in HTML or LaTeX for Dynamic Document and literate programming in Stata](https://github.com/haghish/weaver)                                              |
 | `neat`            | [A Stata layout module for creating geometric shapes out of replicated observations in Stata scatter plots](https://github.com/haghish/neat)                                 |
 | `statax`          | [JavaScript and LaTeX Syntax Highlighter for Stata](https://github.com/haghish/statax)                                                                                       |
