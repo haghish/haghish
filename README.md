@@ -3,7 +3,7 @@ I am a [researcher at University of Oslo](https://scholar.google.com/citations?u
 
 | **Name**          | **Description**                                                                                                                                                              |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `mlim`            | [Multiple imputation with automated machine learning](https://github.com/haghish/mlim)                                                                                       |
+| `mlim`            | [Single and Multiple imputation with automated machine learning](https://github.com/haghish/mlim)                                                                                       |
 | `rcall`           | [Seamless interactive R in Stata. rcall allows communicating data sets, matrices, variables, and scalars between Stata and R conveniently](https://github.com/haghish/rcall) |
 | `markdoc`         | [A literate programming package for Stata which develops dynamic documents, slides, and help files in various formats](https://github.com/haghish/markdoc)                   |
 | `adjROC`          | [ROC Curve Evaluation at a Given Threshold](https://github.com/haghish/adjROC)                                                                                               |
