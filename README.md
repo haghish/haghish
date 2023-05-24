@@ -7,7 +7,7 @@ I am a [researcher at University of Oslo](https://scholar.google.com/citations?u
 | `mlim`            | [Single and Multiple imputation with automated machine learning](https://github.com/haghish/mlim)                                                                                       |
 | `autoEnsemble`          | [An AutoML Algorithm for Building Homogeneous or Heterogeneous Stacked Ensemble Models by Searching for Diverse Base-Learners](https://github.com/haghish/autoEnsemble)  |          
 | `adjROC`          | [ROC Curve Evaluation at a Given Threshold](https://github.com/haghish/adjROC)                                                                                               |
-| `h2otools`          | [Toolkit for H2O.ai Machine Learning Software](https://github.com/haghish/h2otools)  |  
+| `h2otools`          | [Machine Learning Model Evaluation for 'h2o' Package](https://github.com/haghish/h2otools)  |  
 | `DOT`             | [An R Package that Renders and Exports Graphviz DOT diagrams in SVG and PNG format](https://github.com/haghish/DOT)                                                          |
 | `convertGraph`    | [An R package for converting graphical files to one another](https://github.com/haghish/convertGraph)                                                                        |
 | `md.log`          | [A Markdown log system with function call](https://github.com/haghish/md.log)                                                                                                |
