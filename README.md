@@ -4,6 +4,7 @@ I am a [researcher at University of Oslo](https://scholar.google.com/citations?u
 
 | **Name**          | **Description**                                                                                                                                                              |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `shapley`         | [Weighted Mean Shapley Values with Confidence Intervals for Machine Learning Grids and Stacked Ensembles](https://github.com/haghish/shapley)                                                                                       |
 | `mlim`            | [Single and Multiple imputation with automated machine learning](https://github.com/haghish/mlim)                                                                                       |
 | `autoEnsemble`          | [An AutoML Algorithm for Building Homogeneous or Heterogeneous Stacked Ensemble Models by Searching for Diverse Base-Learners](https://github.com/haghish/autoEnsemble)  |          
 | `adjROC`          | [ROC Curve Evaluation at a Given Threshold](https://github.com/haghish/adjROC)                                                                                               |
