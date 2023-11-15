@@ -3,7 +3,13 @@ I am a [researcher at the University of Oslo](https://scholar.google.com/citatio
 I use GitHub mostly for software development in __R__, __Stata__, and __Python__. Below is a list of _free_ software I've developed. Almost all of my Python packages are developedd for the industry and thus are not publically available. Feel free to contact me for feedback or ideas regarding my algorithms and packages. For updates on my software, follow me on Twitter: [@haghish](https://twitter.com/Haghish).
 
 
-### R packages
+
+<a href="https://github.com/haghish/haghish"><img src='packages.png' align="right" height="300" /></a>
+
+R packages
+================================================================================
+
+I have written multiple R packages for artificial intelligence as well as geeral statistical use. My recent software particularly focuse on machine learning, for example, missing data imputation with machine learning, developing automated stacked ensemble machine learning models for classification under severe class imbalance, toolkits for comparing different properties of machine learning models, as well as innovative procedures for assessing model transparency and classification fairness. 
 
 | **Name**          | **Description**                                                                                                                                                              |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
