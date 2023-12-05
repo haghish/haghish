@@ -9,7 +9,7 @@ I use GitHub mostly for software development in __R__, __Stata__, and __Python__
 R packages
 ================================================================================
 
-I have written multiple R packages for artificial intelligence as well as geeral statistical use. My recent software particularly focuse on machine learning, for example, missing data imputation with machine learning, developing automated stacked ensemble machine learning models for classification under severe class imbalance, toolkits for comparing different properties of machine learning models, as well as innovative procedures for assessing model transparency and classification fairness. 
+I have written multiple R packages for artificial intelligence as well as general statistical use. My recent software particularly focuse on machine learning, for example, missing data imputation with machine learning, developing automated stacked ensemble machine learning models for classification under severe class imbalance, toolkits for comparing different properties of machine learning models, as well as innovative procedures for assessing model transparency and classification fairness. 
 
 | **Name**          | **Description**                                                                                                                                                              |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
