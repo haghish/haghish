@@ -36,6 +36,9 @@ I have written multiple R packages for artificial intelligence as well as genera
 | `neat`            | [A Stata layout module for creating geometric shapes out of replicated observations in Stata scatter plots](https://github.com/haghish/neat)                                 |
 | `statax`          | [JavaScript and LaTeX Syntax Highlighter for Stata](https://github.com/haghish/statax)                                                                                       |
 | `md2smcl`         | [A Stata module that converts Markdown to SMCL language](https://github.com/haghish/md2smcl)                                              |
+| `colorcode`         | [A Stata module to return RGB, CMYK, and HSV values for Stata colors]([https://github.com/haghish/md2smcl](https://github.com/haghish/colorcode)    |
+
+
 
 ### Python packages
 
