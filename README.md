@@ -13,6 +13,7 @@ I have written multiple R packages for artificial intelligence as well as genera
 
 | **Name**          | **Description**                                                                                                                                                              |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `HMDA`         | [Holistic Multimodel Domain Analysis: A New Paradigm for Exploratory Machine Learning Research](https://github.com/haghish/shapley)                                                                                       |
 | `shapley`         | [Weighted Mean Shapley Values with Confidence Intervals for Machine Learning Grids and Stacked Ensembles](https://github.com/haghish/shapley)                                                                                       |
 | `mlim`            | [Single and Multiple imputation with automated machine learning](https://github.com/haghish/mlim)                                                                                       |
 | `autoEnsemble`          | [An AutoML Algorithm for Building Homogeneous or Heterogeneous Stacked Ensemble Models by Searching for Diverse Base-Learners](https://github.com/haghish/autoEnsemble)  |          
