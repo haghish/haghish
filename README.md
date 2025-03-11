@@ -4,7 +4,7 @@ I use GitHub mostly for software development in __R__, __Stata__, and __Python__
 
 
 
-<a href="https://github.com/haghish/haghish"><img src='packages.png' align="right" height="280" /></a>
+<a href="https://github.com/haghish/haghish"><img src='packages_2025.png' align="right" height="280" /></a>
 
 R packages
 ================================================================================
